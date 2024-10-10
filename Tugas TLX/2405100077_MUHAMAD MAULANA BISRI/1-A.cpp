@@ -16,4 +16,4 @@ int main() {
     std::cout << "Halo, dunia!" << std::endl;  
 }
 
-//karena std::count meminta untuk menampilkan kata halo, dunia
+//karena program diatas meminta untuk menampilkan halo dunia
